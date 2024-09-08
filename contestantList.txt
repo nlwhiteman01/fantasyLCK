@@ -1,0 +1,4 @@
+teamName,TOP,JUNGLE,MID,ADC,SUPP,team,0
+teamName2,TOP,JUNGLE,MID,ADC,SUPP,team,0
+teamName3,TOP,JUNGLE,MID,ADC,SUPP,team,0
+teamName4,TOP,JUNGLE,MID,ADC,SUPP,team,0

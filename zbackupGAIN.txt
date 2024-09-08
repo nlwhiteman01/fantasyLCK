@@ -1,0 +1,51 @@
+Kingen,Dplus Kia,top,0,0,0,0
+Lucid,Dplus Kia,jungle,0,0,0,0
+ShowMaker,Dplus Kia,mid,0,0,0,0
+Aiming,Dplus Kia,adc,0,0,0,0
+Kellin,Dplus Kia,support,0,0,0,0
+Rascal,DRX,top,0,0,0,0
+Sponge,DRX,jungle,0,0,0,0
+SeTab,DRX,mid,0,0,0,0
+Teddy,DRX,adc,0,0,0,0
+Pleata,DRX,support,0,0,0,0
+Clear,FearX,top,0,0,0,0
+Willer,FearX,jungle,0,0,0,0
+Clozer,FearX,mid,0,0,0,0
+Hena,FearX,adc,0,0,0,0
+Execute,FearX,support,0,0,0,0
+Kiin,GenG,top,0,0,0,0
+Canyon,GenG,jungle,0,0,0,0
+Chovy,GenG,mid,0,0,0,0
+Peyz,GenG,adc,0,0,0,0
+Lehends,GenG,support,0,0,0,0
+Doran,Hanwha Life,top,0,0,0,0
+Peanut,Hanwha Life,jungle,0,0,0,0
+Zeka,Hanwha Life,mid,0,0,0,0
+Viper,Hanwha Life,adc,0,0,0,0
+Delight,Hanwha Life,support,0,0,0,0
+PerfecT,KT Rolster,top,0,0,0,0
+Pyosik,KT Rolster,jungle,0,0,0,0
+Bdd,KT Rolster,mid,0,0,0,0
+Deft,KT Rolster,adc,0,0,0,0
+BeryL,KT Rolster,support,0,0,0,0
+DuDu,Kwangdong Freecs,top,0,0,0,0
+Cuzz,Kwangdong Freecs,jungle,0,0,0,0
+BuLLDoG,Kwangdong Freecs,mid,0,0,0,0
+Taeyoon,Kwangdong Freecs,adc,0,0,0,0
+Andil,Kwangdong Freecs,support,0,0,0,0
+DnDn,NS Redforce,top,0,0,0,0
+Sylvie,NS Redforce,jungle,0,0,0,0
+FIESTA,NS Redforce,mid,0,0,0,0
+Callme,NS RedForce,mid,0,0,0,0
+Jiwoo,NS Redforce,adc,0,0,0,0
+Peter,NS Redforce,support,0,0,0,0
+Morgan,OK BRION,top,0,0,0,0
+GIDEON,OK BRION,jungle,0,0,0,0
+Karis,OK BRION,mid,0,0,0,0
+Envyy,OK BRION,adc,0,0,0,0
+Effort,OK BRION,support,0,0,0,0
+Zeus,T1,top,0,0,0,0
+Oner,T1,jungle,0,0,0,0
+Faker,T1,mid,0,0,0,0
+Gumayusi,T1,adc,0,0,0,0
+Keria,T1,support,0,0,0,0
